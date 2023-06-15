@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dang Gia Duc
-- 👀 I’m interested in Frontend and Backend
 - 🌱 I’m currently learning at FPT University (Ho Chi Minh, Viet Nam)
 - 📫 Contact me: giaducdang@gmail.com
 
